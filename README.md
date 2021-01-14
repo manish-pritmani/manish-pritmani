@@ -6,7 +6,7 @@
 - 💬 I am willing to work on Free-lance projects and love to contribute to Open Source project 💡
 
 - 📫 You can reach me out here: 
-          ✉[manish-pritmani](mailto:manish.pritmani06@gmail.com)
+       💌  [manish-pritmani](mailto:manish.pritmani06@gmail.com)
           
 - 🌱 DevOps and Machine Learning interests me alot. 
 - ⚡ Fun fact: ...Thinking ...
