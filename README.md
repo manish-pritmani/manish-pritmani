@@ -1,4 +1,5 @@
 ### Hi there! Checkout my Repo's below👋
+If you like the Repository give it a ⭐ and also follow me on Github 😀
 <img src="https://user-images.githubusercontent.com/65852995/104610952-99d16c80-56aa-11eb-847b-22dddb3ddb51.jpeg" height="150px" width="100%">
 
 - 👨‍🎓 I am [Manish Pritmani](https://github.com/manish-pritmani/), Currently I am a third year student from Gyan Ganga Institute of Technology, Jabalpur in Computer Science and Engineering.
@@ -13,4 +14,10 @@
 - 📘 Connect with me on Linkedin : [Manish Pritmani](https://www.linkedin.com/in/manish-pritmani/)
 
 
-If you like the Repository give it a ⭐ and also follow me on Github 😀
+
+<!--
+<h2 align="center">Please Show Some Love :hugs: </h2>
+| SL No | Project Name | Description | Link | Tech Stack |
+| ------ | ------------ | ------ | ----- | -------- |
+| 1 | Resume Generator | Generate your Resume using the application | https://github.com/DiptoChakrabarty/Resume-Generator | Flask,Sql | 
+| 2 | Deployments | Deployment of various projects in Docker containers | https://github.com/CodeChefVIT/deployments | Docker, Docker Compose , nginx | -->
