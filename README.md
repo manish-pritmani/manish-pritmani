@@ -11,3 +11,6 @@
 - 🌱 DevOps and Machine Learning interests me alot. 
 - ⚡ Fun fact: ...Thinking ...
 - 📘 Connect with me on Linkedin : [Manish Pritmani](https://www.linkedin.com/in/manish-pritmani/)
+
+
+If you like the Repository give it a ⭐ and also follow me on Github 😀
