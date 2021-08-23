@@ -9,7 +9,7 @@
 | ------ | ------------ | ------ | ----- | -------- |
 | 1 | Lorem Ipsum Generator | Creates dummy text of choice for Web-Developers. | https://github.com/manish-pritmani/Lorem-ipsum-generator | React Js |
 | 2 | Text Compression Algorithm | Compression using most freq. occuring character | https://github.com/manish-pritmani/Text-Compression-Algorithm | C++ |
-
+| 3 | Placement Notes | Get Experience from Seniors | https://github.com/manish-pritmani/placement-notes | Dart |
 <!--<img src="https://user-images.githubusercontent.com/65852995/104610952-99d16c80-56aa-11eb-847b-22dddb3ddb51.jpeg" height="150px" width="100%">-->
 <!--
 - 👨‍🎓 I am Manish Pritmani [Manish Pritmani](https://github.com/manish-pritmani/), Currently I am a third year student from Gyan Ganga Institute of Technology, Jabalpur in Computer Science and Engineering.
