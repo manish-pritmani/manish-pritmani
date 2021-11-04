@@ -1,6 +1,10 @@
-### Hello there! Checkout my Repo's below👋
-- 👨‍🎓 I am Manish Pritmani <!--[Manish Pritmani](https://github.com/manish-pritmani/)-->, Currently I am a third year student from Gyan Ganga Institute of Technology, Jabalpur in Computer Science and Engineering.I am willing to work on Free-lance projects and love to contribute to Open Source project 💡
+### Hi👋, Checkout my Repo's below
+- 👨‍🎓 I am [Manish Pritmani](https://www.linkedin.com/in/manish-pritmani/), a passionate self-taught Software Engineer from India. My passion for software lies with dreaming up ideas that truely solves some problem, and making them come true with Elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+- I am a Final year student from Gyan Ganga Institute of Technology, Jabalpur in Computer Science and Engineering and currently in search of Software Engineer full-time positions.
+
+ 
 - If you like the Repository give it a ⭐ and also follow me on Github 😀
+- I am willing to work on Free-lance projects and love to contribute to Open Source project 💡
 
 ## Tech Stack
 
@@ -22,7 +26,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 <!-- ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) -->
 
-<h3 align="left">Please Show Some Love :hugs: </h3>
+<h3 align="left">Show Some Love :hugs: </h3>
 
 | S.No | Project Name | Description | Link | Tech Stack |
 | ------ | ------------ | ------ | ----- | -------- |
