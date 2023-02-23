@@ -47,7 +47,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-<h3 align="left">Show Some Love :hugs: </h3>
+<h2 align="left">:hugs: Show Some Love </h2>
 
 | S.No | Project Name | Description | Link | Tech Stack |
 | ------ | ------------ | ------ | ----- | -------- |
@@ -70,7 +70,7 @@
 
 
 <!--
-<h2 align="center">Please Show Some Love :hugs: </h2>
+<h2 align="center">:hugs: Please Show Some Love  </h2>
 | SL No | Project Name | Description | Link | Tech Stack |
 | ------ | ------------ | ------ | ----- | -------- |
 | 1 | Resume Generator | Generate your Resume using the application | https://github.com/DiptoChakrabarty/Resume-Generator | Flask,Sql | 
