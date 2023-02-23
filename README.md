@@ -6,6 +6,9 @@
 - If you like the Repository give it a ⭐ and also follow me on Github 😀
 - I am willing to work on Free-lance projects and love to contribute to Open Source project 💡
 
+##  🎯 Stats
+![Manish Pritmani's GitHub stats](https://github-readme-stats.vercel.app/api?username=manish-pritmani&theme=vue&show_icons=true&count_private=true&include_all_commits=true)
+
 ## Tech Stack
 
 
