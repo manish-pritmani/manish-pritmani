@@ -16,6 +16,7 @@
 
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manish-pritmani&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+![Stats](https://leetcode.card.workers.dev/?theme=default&font=baloo&extension=null)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish-pritmani&show_icons=true&hide_border=false&layout=compact&langs_count=8"/>
 </details>
 
