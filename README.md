@@ -1,5 +1,5 @@
 ## Hi👋, I'm [Manish Pritmani](https://www.linkedin.com/in/manish-pritmani/), Checkout my Repo's below
-- 👨‍🎓 I am [Manish Pritmani](https://www.linkedin.com/in/manish-pritmani/), a passionate self-taught Software Engineer from India. My passion for software lies with dreaming up ideas that truely solves some problem, and making them come true with Elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+- 👨‍🎓 Passionate self-taught Software Engineer from India. My passion for software lies with dreaming up ideas that truely solves some problem, and making them come true with Elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 - I am a Final year student from Gyan Ganga Institute of Technology, Jabalpur in Computer Science and Engineering and currently in search of Software Engineer full-time positions.
 
  
