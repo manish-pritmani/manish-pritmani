@@ -1,4 +1,4 @@
-### Hi👋, Checkout my Repo's below
+## Hi👋, I'm [Manish Pritmani](https://www.linkedin.com/in/manish-pritmani/), Checkout my Repo's below
 - 👨‍🎓 I am [Manish Pritmani](https://www.linkedin.com/in/manish-pritmani/), a passionate self-taught Software Engineer from India. My passion for software lies with dreaming up ideas that truely solves some problem, and making them come true with Elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 - I am a Final year student from Gyan Ganga Institute of Technology, Jabalpur in Computer Science and Engineering and currently in search of Software Engineer full-time positions.
 
@@ -8,8 +8,24 @@
 
 ##  🎯 Stats
 ![Manish Pritmani's GitHub stats](https://github-readme-stats.vercel.app/api?username=manish-pritmani&theme=vue&show_icons=true&count_private=true&include_all_commits=true)
+<img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=manish-pritmani" />
 
-## Tech Stack
+<!--
+<details>	
+ <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manish-pritmani&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish-pritmani&show_icons=true&hide_border=false&layout=compact&langs_count=8"/>
+</details>
+
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+</details>
+-->
+## 🏂 Tech Stack
 
 
 <!-- ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp; -->
